@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Housing Loan EMI</string>
+    <string name="title_activity_main">Housing Loan EMI</string>
+    <string name="package_name">io.housing.emi</string>
+    <string name="custom_url_scheme">io.housing.emi</string>
+</resources>
